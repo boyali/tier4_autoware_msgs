@@ -28,6 +28,8 @@ rosidl_generate_interfaces(${PROJECT_NAME}
         "srv/UpdateAccelBrakeMap.srv"
         "msg/InputDisturbances.msg"
         "msg/InputDisturbancesStamped.msg"
+        "msg/ControllerErrorMsgs.msg"
+        "msg/ControllerErrorMsgsStamped.msg"
         "msg/DelayCompensators.msg"
         "msg/DelayCompensatorsStamped.msg"
         DEPENDENCIES std_msgs geometry_msgs tier4_control_msgs

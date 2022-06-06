@@ -1,0 +1,4 @@
+float64 lateral_deviation_error
+float64 heading_error
+float64 steering_tracking_error
+float64 velocity_tracking_error
