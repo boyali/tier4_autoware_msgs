@@ -1,0 +1,4 @@
+float64 lateral_deviation_compensation_ref
+float64 heading_angle_compensation_ref
+float64 steering_error_compensation_ref
+float64 velocity_error_compensation_ref

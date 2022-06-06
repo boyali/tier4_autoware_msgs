@@ -1,0 +1,9 @@
+float64 steer_nondelayed_input
+float64 steer_delayed_input
+float64 steer_time_delay_value
+
+float64 acc_nondelayed_input
+float64 acc_delayed_input
+float64 acc_time_delay_value
+
+float64 road_slope_dist_acc_value
