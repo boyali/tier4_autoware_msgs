@@ -17,7 +17,6 @@ ament_auto_find_build_dependencies()
 rosidl_generate_interfaces(${PROJECT_NAME}
         "msg/GateMode.msg"
         "msg/ExternalCommandSelectorMode.msg"
-        "msg/DisturbanceGeneratorReport.msg"
         "srv/ExternalCommandSelect.srv"
         DEPENDENCIES
         std_msgs
