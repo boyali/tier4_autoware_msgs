@@ -1,0 +1,15 @@
+float64 steer_original_input
+float64 steer_delayed_input
+float64 steer_time_delay_value
+float64 acc_original_input
+float64 acc_delayed_input
+float64 acc_time_delay_value
+float64 road_slope_acc
+float64 left_deadzone_slope
+float64 left_deadzone_threshold
+float64 right_deadzone_slope
+float64 right_deadzone_threshold
+float64 deadzone_input
+float64 deadzone_output
+
+
